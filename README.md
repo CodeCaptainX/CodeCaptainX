@@ -1,6 +1,4 @@
 # 👋 Hello, I'm Chomroeun Khom
-
-## 🚀 About Me
 - 💻 I'm a **Full Stack Web Developer**
 - 🌐 I work with **Go, Vue.js, React.js, Python, HTML5, CSS3, and JavaScript**
 - 🎯 I love building clean, scalable, and high-performance web applications
