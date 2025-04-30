@@ -21,7 +21,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeCaptainX&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khomchomroeun&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=codeCaptainX&theme=radical)
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sdach.tong/?_rdc=1&_rdr#)
