@@ -17,9 +17,9 @@
 
 ## 📈 GitHub Stats
 
-![Chomroeun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khomchomroeun&show_icons=true&theme=radical)
+![Chomroeun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeCaptainX&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khomchomroeun&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeCaptainX&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=khomchomroeun&theme=radical)
 
